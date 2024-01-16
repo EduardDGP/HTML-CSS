@@ -1,0 +1,38 @@
+
+h2{
+    font: 50%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100%;
+    font-style: normal;
+    text-align: center;
+}
+
+.Literatura{
+    font: 50%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100%;
+    font-style: normal;
+    margin: 30px
+}
+
+.Literatura2{
+    font: 50%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100%;
+    font-style: normal;
+    text-align: right;
+    margin: 30px
+}
+
+.Resumen{
+    font: 50%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100%;
+    font-style: normal;
+    margin: 30px;
+    line-break: strict;
+}
+
+
+
+
